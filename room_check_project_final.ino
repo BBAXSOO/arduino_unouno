@@ -42,7 +42,7 @@ bool isBlinking = false;
 
 // 알람용 부저
 unsigned long lastAlarmTime = 0;
-const unsigned long alarmInterval = 10000;
+const unsigned long alarmInterval = 60000;
 const unsigned long alarmDuration = 1000;
 
 
